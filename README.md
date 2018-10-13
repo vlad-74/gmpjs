@@ -12,8 +12,9 @@
 ### 2.2. ..\source\components - смотри исходники
 ***
 # `Как установить проект:`
-##  ![#03CA27](https://placehold.it/20/c5f015/000000?text='') `https://github.com/vlad-74/gmpjs.git jmpjs`
+##  ![#03CA27](https://placehold.it/20/c5f015/000000?text='') `git clone https://github.com/vlad-74/gmpjs.git jmpjs`
 ##  ![#03CA27](https://placehold.it/20/c5f015/000000?text='') `Перейти в проект - cd jmpjs`
+###  вместо `jmpjs` может быть название вашего проекта
 ##  ![#03CA27](https://placehold.it/20/c5f015/000000?text='') `yarn install`
 ##  ![#03CA27](https://placehold.it/20/c5f015/000000?text='') `yarn run start`
 ***
